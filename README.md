@@ -9,13 +9,13 @@ For those who prefer typical CLI based approach, one of the Andromeda’s featur
 
 Features:
 =========
-Ease Of Use
-Classes Enumeration
-Methods Enumeration
-Hooking
-Memory Analysis 
-Menus for saving and editing project. (TBD)
-Add-on : Andromeda Demo App.
+- Ease Of Use
+- Classes Enumeration
+- Methods Enumeration
+- Hooking
+- Memory Analysis 
+- Menus for saving and editing project. (TBD)
+- Add-on : Andromeda Demo App.
 
 
 This project is still under-development, so bugs are expected. 
