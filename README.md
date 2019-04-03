@@ -20,6 +20,13 @@ Features:
 
 This project is still under-development, so bugs are expected. 
 
+Library Requirements
+====================
+
+Major library requirements are as mentioned below :
+- Frida (Tested on frida v.12.4.5)
+- PyQt5 (Tested on PyQt5 v.5.12.1)
+
 How to use Andromeda ?
 ======================
 Disclaimer : Please use Python3 
