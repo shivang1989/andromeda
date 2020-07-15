@@ -155,7 +155,7 @@ def load_methods():
                         var obj = Java.use('""" + required_class + """')
                         var loaded_methods = obj.class.getDeclaredMethods();
                         var methods = "";
-                        for(i=0; i<loaded_methods.length; i++){
+                        for(var i=0; i<loaded_methods.length; i++){
                             methods = methods + loaded_methods[i].toString() + "###";
                         }
                         send(methods);
